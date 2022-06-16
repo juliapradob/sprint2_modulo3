@@ -1,0 +1,12 @@
+id_aluno,nome_aluno,cpf_aluno,email_aluno,frente_aluno,id_turma
+1,Maria,75963174058,maria@email.com,fullstack,201
+2,Lucas,85556971072,lucas@email.com,back,201
+3,Joana,40372201059,joana@email.com,front,202
+4,Mateus,28512265094,mateus@email.com,fullstack,203
+5,Vitória,67435885045,vitoria@email.com,front,203
+6,Sofia,25630551051,sofia@email.com,fullstack,204
+7,Luana,668227001,luana@email.com,back,204
+8,Pedro,20684992078,pedro@email.com,front,204
+9,Fábio,97534186048,fabio@email.com,back,205
+10,Luís,84243725063,luis@email.com,front,206
+11,Anderson,48976831063,anderson@email.com,front,207
